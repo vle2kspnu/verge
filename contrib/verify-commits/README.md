@@ -45,3 +45,5 @@ but no new commits can be signed by any expired/revoked key. To easily build a
 list of commits which need to be added, verify-commits.py can be edited to test
 each commit with VERGE_VERIFY_COMMITS_ALLOW_REVSIG set to both 1 and 0, and
 those which need it set to 1 printed.
+
+<!-- Auto-update: 2025-10-14T15:47:18.868460 -->
